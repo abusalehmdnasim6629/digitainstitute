@@ -329,7 +329,7 @@
 		</div>
 	</div>
 	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
-	<script type="text/javascript" src="{{asset('assets2/scripts/main.js')}}"></script>
+	<script type="text/javascript" src="{{asset('assets/js/main.js')}}"></script>
 
     <!-- Latest compiled and minified CSS -->
 

@@ -18,7 +18,7 @@ Route::get('/n', function () {
 //     return view('nav');
 // });
 
-Auth::routes();
+Auth::routes(['verify' => true]);
 Route::get('/', 'ContentController@getContent')->name('SmartTraining');
 
 

@@ -83,11 +83,11 @@ background-color:#016dc7;
              </p>
              </div>
 
-             <div class="text-center mt-5">
-             <!-- <button class="btn btn-lg font-weight-bold mt-5 text-white text-center" id="containerr" style="width:200px;background-color:#0039a1;border-radius:30px;font-size:25px;">
+             <div class="mt-5" style="text-align: center">
+              {{-- <button class="btn btn-lg font-weight-bold mt-5 text-white text-center" id="containerr" style="width:200px;background-color:#0039a1;border-radius:30px;font-size:25px;">
              
              Contact Us 
-             <i class='fas fa-angle-right'></i> -->
+             <i class='fas fa-angle-right'></i>  --}}
              <a href="" id="button" ><span id="bt"><b>Contact Us </b></span></a>
              </div>
             </div>

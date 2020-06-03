@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+.nav-link {
+    font-size: 14px;
+    color: #0031ad;
+}
+.login-header-content {
+    color: #ffffff;
+    position: relative;
+    margin-bottom: 20px;
+}
+.login-header-content:after {
+    content: "";
+    clear: both;
+    display: block;
+    height: 3px;
+    background: #ffffff;
+    width: 65px;
+    position: absolute;
+    top: 107%;
+    left: 42%;
+}
